@@ -55,7 +55,7 @@ const translations: Record<Lang, {
     ],
     logo_sub: 'Метавселенная: Поколение Инноваторов (π-ПИ)',
     welcome: {
-      h1: 'Национальная образовательная метавселенная Республики Казахстан',
+      h1: 'Иннициатива Национальной образовательная метавселенная Республики Казахстан',
       p: 'Проект π — это создаваемая в Казахстане образовательная метавселенная для школьников 10–18 лет. Здесь дети получают доступ к современным технологиям (ИИ, VR/AR), развивают навыки будущего и включаются в систему образования нового поколения.',
       button: 'Смотреть подробнее',
     },
@@ -223,7 +223,7 @@ const translations: Record<Lang, {
     ],
     logo_sub: 'Metaverse: Generation of Innovators π',
     welcome: {
-      h1: 'National Education Metaverse of the Republic of Kazakhstan',
+      h1: 'Initiative of the National Educational Metaverse of the Republic of Kazakhstan',
       p: 'π project is an educational metaverse under development in Kazakhstan for students aged 10-18. Here, children gain access to modern technologies (AI, VR/AR), develop future skills, and engage in a new generation education system.',
       button: 'Learn more',
     },
@@ -391,7 +391,7 @@ Lifelong education, modern data center infrastructure, and analytics for state s
     ],
     logo_sub: 'π инноваторлар ұрпағы π - Метаәлемi',
     welcome: {
-      h1: 'Қазақстан Республикасының ұлттық білім беру метаәлемі',
+      h1: 'π — Қазақстан Республикасы үшін Ұлттық білім беру метаәлемі бастамасы',
       p: 'π жобасы — Қазақстанда жасалып жатқан 10-18 жас аралығындағы оқушыларға арналған білім беру метаәлемі. Мұнда балалар заманауи технологияларға (ЖИ, VR/AR) қол жеткізіп, болашақ дағдыларын дамытып, жаңа буын білім жүйесіне қосылады.',
       button: 'Толығырақ',
     },
